@@ -73,11 +73,11 @@
 ![PHP](https://img.shields.io/badge/-PHP_Expert-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony_Developer-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-## 🔥 Contribution Streak
+## 🔥 My Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wandalf-dev&theme=radical&hide_border=true)
+![GitHub last commit](https://img.shields.io/github/last-commit/wandalf-dev/wandalf-dev?style=for-the-badge&logo=github)
 
 </div>
 
