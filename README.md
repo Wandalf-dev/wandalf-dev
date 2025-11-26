@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your current project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[Types of projects]**
+- 🔭 I'm currently working on **a private project**
+- 🌱 I'm currently learning **Nginx and Python**
+- 👯 I'm looking to collaborate on **a private project with JTu**
 - 💬 Ask me about **PHP, Symfony, TypeScript**
 - 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **Despite my name, I'm not as old as Gandalf!**
 
 ## 🛠️ Technologies & Tools
 
