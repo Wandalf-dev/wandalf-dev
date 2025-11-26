@@ -98,8 +98,8 @@ fun_fact: "Despite my name, I'm not as old as Gandalf!"
 
 | Project | Tech Stack | Status |
 |:-------:|:----------:|:------:|
-| 🔒 Private Project | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony) | 🟢 In Progress |
-| 🔒 Collab with JTu | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | 🟢 In Progress |
+| 🔒 Private Project | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | 🟢 In Progress |
+| 🔒 Stage with GDU | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony) | 🟢 In Progress |
 
 <br>
 
