@@ -1,5 +1,11 @@
 <div align="center">
 
+  <img src="https://github.com/Wandalf-dev/wandalf-dev/blob/main/tumblr_68951da1ed51da23906d267abcf1b077_f998649d_540.gif?raw=true" alt="Gandalf studying" width="400">
+
+  <br><br>
+
+<div align="center">
+
   # 👋 Hi there, I'm Wandalf-dev
 
   <i>"Wandalf" for close friends 🧙‍♂️</i>
