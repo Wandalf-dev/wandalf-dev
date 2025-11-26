@@ -1,17 +1,20 @@
 <div align="center">
+
   # 👋 Hi there, I'm Wandalf-dev
-</div> 
 
-<div align="center">
   <i>"Wandalf" for close friends 🧙‍♂️</i>
-</div>
 
+  <br>
 
-<div align="center">
-  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+Symfony+Enthusiast;Always+Learning)
-  
+
+  <br>
+
+  > *"All we have to decide is what to do with the time that is given us."* - Gandalf 🧙‍♂️
+
 </div>
+
+---
 
 ## 🚀 About Me
 
