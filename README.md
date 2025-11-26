@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning **Nginx and Python**
 - 👯 I'm looking to collaborate on **a private project with JTu**
 - 💬 Ask me about **PHP, Symfony, TypeScript**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[contact@freelance-lm.fr]**
 - ⚡ Fun fact: **Despite my name, I'm not as old as Gandalf!**
 
 ## 🛠️ Technologies & Tools
