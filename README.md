@@ -1,9 +1,12 @@
 # 👋 Hi there, I'm Wandalf-dev
-### (Wandalf for close friends)
+
+<div align="center">
+  <i>"Wandalf" for close friends 🧙‍♂️</i>
+</div>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Technology+Enthusiast;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%26+Symfony+Enthusiast;Always+Learning)
   
 </div>
 
@@ -12,31 +15,23 @@
 - 🔭 I'm currently working on **[Your current project]**
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **[Types of projects]**
-- 💬 Ask me about **[Your areas of expertise]**
+- 💬 Ask me about **PHP, Symfony, TypeScript**
 - 📫 How to reach me: **[your.email@example.com]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
+### Backend & Frameworks
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -46,20 +41,16 @@
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wandalf-dev&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wandalf-dev&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -67,20 +58,25 @@
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Wandalf-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4)
   
 </div>
 
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-## 🔥 Featured Projects
+## 📈 Contribution Streak
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wandalf-dev&theme=radical&hide_border=true)
+
+</div>
+
+## 🔥 Featured Projects
+
+<!-- Replace REPO_NAME with your actual repository names -->
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Wandalf-dev&repo=REPO_NAME&theme=radical)](https://github.com/Wandalf-dev/REPO_NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Wandalf-dev&repo=REPO_NAME&theme=radical)](https://github.com/Wandalf-dev/REPO_NAME)
 
 </div>
 
@@ -93,13 +89,13 @@
 
 ## 💡 Favorite Quote
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+> "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
 
 ---
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Wandalf-dev.Wandalf-dev)
   
   💙 Thanks for visiting my profile!
   
